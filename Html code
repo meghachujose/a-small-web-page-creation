@@ -1,0 +1,24 @@
+        <html>
+        <head>
+        <title>
+        Club activities
+        </title>
+        </head>
+        <body>
+       <p align = center>
+       <center><h1>technical club</b></h></center>
+       </p>
+       <h2>Activities</h2>
+       <ol>
+       <li> paper presntation </li>
+       <li>quiz competitions</li>
+       <li>mock interview</li>
+       </ol>
+       <h2> coordinators </h2>
+       <ol type = '*'>
+       <li> name1</li>
+       <li>name2</li>
+       <li>name3</li>
+       </ol>
+       </body>
+       </html>
